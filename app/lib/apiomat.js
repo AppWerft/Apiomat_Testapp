@@ -1,4 +1,4 @@
-/*
+/*   
  MIT
 */
 if("undefined"!==typeof goog)var XMLHttpRequest={};
