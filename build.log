@@ -1,0 +1,14 @@
+Logfile initialized
+[INFO] logfile = /Users/phimi/Development/Titanium_Studio_Workspace/POIApp/build.log
+[DEBUG] /Users/phimi/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/android/builder.py emulator POIApp /Users/phimi/Development/Android/SDK/android-sdk-macosx /Users/phimi/Development/Titanium_Studio_Workspace/POIApp com.appcelerator.Geocoder 11 WVGA854 armeabi-v7a 
+[INFO] Launching Android emulator...one moment
+[DEBUG] From: /Users/phimi/Development/Android/SDK/android-sdk-macosx/tools/emulator
+[DEBUG] SDCard: /Users/phimi/.titanium/android2.sdcard
+[DEBUG] AVD ID: 11
+[DEBUG] AVD Skin: WVGA854
+[DEBUG] AVD ABI: armeabi-v7a
+[DEBUG] SDK: /Users/phimi/Development/Android/SDK/android-sdk-macosx
+[INFO] Creating 64M SD card for use in Android emulator
+[INFO] Creating new Android Virtual Device (11 WVGA854 armeabi-v7a)
+[DEBUG] /Users/phimi/Development/Android/SDK/android-sdk-macosx/tools/emulator -avd titanium_11_WVGA854_armeabi-v7a -port 5560 -sdcard /Users/phimi/.titanium/titanium_11_WVGA854_armeabi-v7a.sdcard -logcat *:d,*,TiAPI:V -no-boot-anim -partition-size 128
+[INFO] Android Emulator has exited

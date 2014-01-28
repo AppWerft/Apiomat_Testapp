@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<Require id="loading" type="widget" src="com.appcelerator.loading"/>
+		<Require src="map" id="map" />
+	</Window>
+</Alloy>

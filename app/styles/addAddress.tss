@@ -1,0 +1,36 @@
+"TextField": {
+    height: '40dp',
+    top: '5dp',
+    left: '5dp',
+    right: '5dp',
+    color: '#000',
+    style: Ti.UI.INPUT_BORDERSTYLE_ROUNDED,
+    backgroundColor: '#fff'
+}
+
+"TextArea": {
+	height: '70dp',
+    top: '55dp',
+    left: '5dp',
+    right: '5dp',
+    color: '#000',
+    style: Ti.UI.INPUT_BORDERSTYLE_ROUNDED,
+    backgroundColor: '#fff'
+}
+
+"Button": {
+    font: {
+        fontSize: '20dp',
+        fontWeight: 'bold'	
+    },
+    top: '140dp',
+    height: '40dp',
+    left: '5dp',
+    right: '5dp'
+}
+
+"#addressWin": {
+    backgroundColor: '#800',
+    height: '250dp',
+    top: 0
+} 

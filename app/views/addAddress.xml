@@ -1,0 +1,7 @@
+<Alloy>
+    <Window id="addressWin" modal="true">
+    		<TextField id="textField" hintText="Enter an address" />
+    		<TextArea id="description" hintText="Enter a description" />
+		<Button id="button" title="Add Address" />
+    	</Window>
+</Alloy>

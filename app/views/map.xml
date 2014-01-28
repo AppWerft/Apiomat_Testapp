@@ -1,0 +1,5 @@
+<Alloy>
+	<Button id="button" title="Add address" />
+	<View ns="Ti.Map" id="map" mapType="Ti.Map.STANDARD_TYPE">
+	</View>
+</Alloy>
