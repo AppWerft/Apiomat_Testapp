@@ -16,7 +16,7 @@ $.loading.setOpacity(1.0);
 
 // Load some content...
 $.index.open();
-/* Login to apiOmat */
+/* Login to apiOmat */ 
 var user = new Apiomat.User;
 user.setUserName("phimi");
 user.setPassword("12345");
